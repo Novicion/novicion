@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hola 👋
 
-<!--
-**Novicion/novicion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo soy Novicion un programador de Perú.
 
-Here are some ideas to get you started:
+⛥ Mi este es mi [Discord](https://discord.gg/KR4ARedua5) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛥ Estas son mis redes [twitter](https://twitter.com/noviciondev) [instagram](https://www.instagram.com/noviciondev/) [github](https://github.com/NOVA-I0)
+
+## Skills 
+
+⛥ JavaSkrip %30
+
+⛥ C %0
+
+⛥ Python %0
+
+⛥ C++ %0
+
+⛥ C# %0
+
+## Contacto
+
+⛥ Discord ID Novicion#4751
+
+UwU
