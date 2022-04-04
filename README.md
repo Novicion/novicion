@@ -2,7 +2,7 @@
 
 Yo soy Novicion un programador de Perú.
 
-⛥ Mi este es mi [Discord](https://discord.gg/KR4ARedua5) 
+⛥ Este es mi [Discord](https://discord.gg/KR4ARedua5) 
 
 ⛥ Estas son mis redes [twitter](https://twitter.com/noviciondev) [instagram](https://www.instagram.com/noviciondev/) [github](https://github.com/NOVA-I0)
 
