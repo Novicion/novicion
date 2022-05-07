@@ -1,6 +1,6 @@
 ## Hola 👋
 
-.setColor (client.botconfig.EmbedColor) Yo soy Novicion un programador de Perú.
+Yo soy Novicion un programador de Perú.
 
 ⛥ Este es mi [Discord](https://discord.gg/KR4ARedua5) 
 
