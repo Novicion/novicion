@@ -1,9 +1,9 @@
-### Hola yo soy Novicion 👋
+### hello I am Novicion 👋
 
 <br />
 
-- 🎂 Tengo 17
-- 🖥️ Estudio Ign. de Sistemas
+- 🎂 I'm 17
+- 🖥️ Study Ign. of Systems
 
 ## Github Achievements
 
