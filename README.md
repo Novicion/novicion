@@ -1,24 +1,23 @@
-## Hola 👋
+### Hola yo soy Novicion 👋
 
-Yo soy Novicion un programador de Perú.
+<br />
 
-⛥ Este es mi [Discord](https://discord.gg/ZpBqrzZbsr)                                                                                 
+- 🎂 Tengo 17
+- 🖥️ Estudio Ign. de Sistemas
 
-⛥ Estas son mis redes [twitter](https://twitter.com/noviciondev) [instagram](https://www.instagram.com/noviciondev/) [github](https://github.com/novicion)
+## Github Achievements
 
-## Skills 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novicion&show_icons=true&theme=radical)
 
-⛥ JavaSkrip %30
+## Used languages
 
-⛥ C %0
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novicion&langs_count=8)
 
-⛥ Python %0
-
-⛥ C++ %0
-
-⛥ C# %0
-
-## Contacto
-
-⛥ Discord ID Novicion#4751
-
+<p align="center">
+  <a href="https://twitter.com/NovicionDev">
+    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://discord.gg/D9JShpPJb9">
+    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  </a>
+</p>
