@@ -20,4 +20,7 @@
   <a href="https://discord.gg/D9JShpPJb9">
     <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
+  <a href="https://www.instagram.com/noviciondev/">
+    <img align="center" alt="Instagram" width="28px" src="https://cdn.discordapp.com/attachments/972628722500898856/1054145888441860176/Instagram-Icon.png" />
+  </a>
 </p>
