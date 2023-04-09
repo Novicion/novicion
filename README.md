@@ -11,7 +11,7 @@
 
 ## Used languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novicion&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novicion&langs_count=8)
 
 <p align="center">
   <a href="https://twitter.com/NovicionDev">
