@@ -17,7 +17,7 @@
   <a href="https://twitter.com/NovicionDev">
     <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://discord.gg/D9JShpPJb9">
+  <a href="https://discord.gg/ThgsdED529">
     <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
   </a>
   <a href="https://www.instagram.com/noviciondev/">
